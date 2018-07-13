@@ -1,0 +1,7 @@
+nb-configuration.xml
+/.idea/
+/target/
+/classes/
+*.class
+*.jar
+*.sql
