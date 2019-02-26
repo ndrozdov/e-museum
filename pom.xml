@@ -129,10 +129,9 @@
                 <version>2.2</version>
                 <configuration>
                     <update>true</update>
-                    <!--<url>http://192.168.5.195:8080/manager/text</url>-->
-                    <url>http://194.190.9.149:8080/manager/text</url>
-                    <username>tomcat</username>
-                    <password>111111</password>
+                    <url>url</url>
+                    <username>user</username>
+                    <password>pass</password>
                     <path>/kiosk</path>
                 </configuration>
             </plugin>
